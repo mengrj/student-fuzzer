@@ -1,4 +1,4 @@
-# Student Fuzzer
+# Student Fuzzer 
 Template repository for CS5219
 
 ## Setup
